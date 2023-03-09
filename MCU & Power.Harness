@@ -1,0 +1,3 @@
+Channel Ctrl=ADC_D\R\D\Y\,ADC_R\S\T\,LDO_S\Y\N\C\,SMPS_C\S\,SMPS_EN,ADC_C\S\
+Level Shifter 5V Signals=ADCCLK5V,C\S\ADC5V_2,C\S\ADC5V_1
+SPI Common=MISO,MOSI,SCLK

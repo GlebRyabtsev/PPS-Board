@@ -1,0 +1,2 @@
+Additional Ports=CS,DRDY,SYNC/RST,CLKIN
+Channel Ctrl=SMPS_C\S\,SMPS_EN,LDO_S\Y\N\C\,ADC_C\S\,ADC_D\R\D\Y\,ADC_R\S\T\
